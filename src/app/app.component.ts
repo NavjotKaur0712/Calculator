@@ -79,7 +79,7 @@ forDIV(){
   ngOnInit(){
     console.log("This is the new result:Result");
     console.log("this is the new change in new branch");
-    console.log("This is the new result: Bye");
+    console.log("Pull Requests");
   }
 
   getResult(){
