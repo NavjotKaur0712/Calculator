@@ -77,7 +77,7 @@ forDIV(){
   //  }
 
   ngOnInit(){
-    console.log("This is the new result");
+    console.log("This is the new result: Bye");
   }
 
   getResult(){
